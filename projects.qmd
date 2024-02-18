@@ -1,5 +1,2 @@
----
-title: "Projects"
----
 
-Here you can demonstrate your projects
+Here you can demonstrate your projects...
