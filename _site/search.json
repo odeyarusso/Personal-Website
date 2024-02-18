@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you can demonstrate your projects\n\nsample(1:100)\n\n  [1] 100  86  62  78  28  26  29  75   9  58  24  49  71  44  63  88  36  56\n [19]  60  96  42  80  95  31  19  53   4  94  21  25  73  35  76  84  90  74\n [37]  32  98  66   5  59  47  39  15  72   7  51  85  65  34  17  67  14   3\n [55]   1  69  54   6  18  91  97  64  83  45  11  92  37  13  87  20  77   8\n [73]  23  82  48  41  12  43  38  22  89  93  79  99   2  70  61  10  30  68\n [91]  40  57  16  50  27  81  55  46  33  52"
+    "text": "Here you can demonstrate your projects"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Odeya Russo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#title-of-website",
     "href": "index.html#title-of-website",
     "title": "Odeya Russo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
