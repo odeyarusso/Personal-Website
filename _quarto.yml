@@ -2,23 +2,23 @@ project:
   type: website
 
 website:
-  title: "Odeya Russo"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: work_experience.qmd
+        text: Work Experience
       - href: projects.qmd
         text: Project
+
+  page-footer:
+    right: "&copy; 2024, Odeya Russo"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
 
 execute:
   freeze: auto
