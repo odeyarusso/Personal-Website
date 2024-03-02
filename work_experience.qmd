@@ -1,0 +1,52 @@
+---
+toc: false
+---
+### <ins>Work Experience</ins>
+
+**UCLA Alumni Association Advancement Technology Solutions** <span style="float: right;">July 2023 -- Present</span> <br>
+**Junior Data Analyst** <span style="float: right;">Remote</span> <br>
+* Collaborated on over 15 diverse data analysis and extraction projects, collaborating closely with clients and demonstrating expertise in utilizing Python and SQL for data extraction, cleansing, and analysis from CRM databases. <br>
+*  Utilized Tableau and PowerPoint to transform complex data into actionable insights, creating compelling visualizations for clients. <br>
+* Enhanced team efficiency by providing guidance and training to a fellow student worker in event attendance processing. <br>
+* Conducted thorough reviews of over 400 event attendance workbooks, ensuring data completeness, cleanliness, and proper formatting. <br>
+* Proactively identified and resolved data discrepancies, collaborating closely with data senders to address complex issues. <br>
+
+**Academy Volleyball Club** <span style="float: right;">June 2018 -- Sept 2023</span> <br>
+**Head Volleyball Club** <span style="float: right;">Redwood City, CA</span> <br>
+* Led 3 nationally ranked girls' volleyball teams across various age groups. <br>
+* Took charge of organizing camp schedules and planned engaging camp activities to enhance players' skills and create a positive learning environment. <br>
+* Maintained a commitment of approximately 20 hours per week.
+
+**NextUp Ventures** <span style="float: right;">Mar 2023 -- July 2023</span> <br>
+**Marketing Analyst Intern** <span style="float: right;">Remote</span> <br>
+* Conducted in-depth sector-by-sector analyses of target markets within key geographies. <br>
+* Generated innovative ideas and led social media targeting initiatives for key markets, executing effective strategies to enhance brand visibility and engagement. <br>
+* Proficiently organized impactful remote events for founders in key geographies, creating valuable networking and collaboration opportunities.
+
+**Stanford Genome Technology Center** <span style="float: right;">Dec 2021 -- Mar 2022</span> <br>
+**Intern Under the Director of Translational Medicine Ami Mac** <span style="float: right;">Palo Alto, CA</span> <br>
+* Actively engaged in board meetings, gaining comprehensive insights into the diverse impacts of Long-COVID and Chronic Fatigue Syndrome on various bodily systems. <br>
+* Performed a thorough review of existing research articles on Long-COVID and Chronic Fatigue Syndrome. Summarized key findings, contributing valuable insights to the research project. <br>
+* Contributed to an ongoing longitudinal study, utilizing collected data to assess functional outcomes in patients over time.
+
+
+
+### <ins>Leadership/Campus Involvement</ins>
+
+**UCLA Women's Indoor Volleyball Club** <span style="float: right;">Sept 2023 - Present</span> <br>
+**Treasurer** <span style="float: right;">Palo Alto, CA</span> <br>
+* Implemented effective budgeting strategies to ensure financial stability of the club. <br>
+* Managed and monitored club finances, tracking income and expenses with precision using Excel. <br>
+* Designed and implemented inventive fundraising events, including a grass volleyball tournament, leading to a significant revenue increase of over $2000. <br>
+* Facilitated reimbursement processes for club members, promoting financial accountability.
+
+**UCSD Women's Volleyball Team** <span style="float: right;">Aug 2020 - June 2022</span> <br>
+**Division 1 Volleyball Athlete** <span style="float: right;">Palo Alto, CA</span> <br>
+* Played as a Division 1 Volleyball Athlete for a duration of 2 years. <br>
+* Demonstrated dedication by allocating 20 hours per week to athletic commitments while successfully managing a full academic course load. <br>
+* Acquired exceptional time management and teamwork skills.
+
+
+
+
+

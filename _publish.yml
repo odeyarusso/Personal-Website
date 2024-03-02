@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f1d5e753-61e2-4f66-baf4-0b4051c4048c
+      url: 'odeyarusso.netlify.app'

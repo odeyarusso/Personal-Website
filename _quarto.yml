@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: work_experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Project
+
+  page-footer:
+    right: "&copy; 2024, Odeya Russo"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+  
+  
+
+
