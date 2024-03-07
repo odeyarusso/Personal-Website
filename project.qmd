@@ -1,0 +1,41 @@
+
+## **UCLA Alumni Association Advancement Technology Solutions Project**
+
+**Project Title**: Company Data Integration and Matching
+
+**Project Description**: This project seeks to synchronize and consolidate information from two crucial datasets: the Companies file in CRM and the User file in the UCLA ONE platform. The primary objective is to establish a robust connection between the companies listed in both datasets, ensuring data accuracy and completeness. Leveraging the FuzzyWuzzy library, I aim to match company names across both datasets, giving priority to identifying the most popular and frequently occurring company names. The overarching goal is to elevate data quality, streamline company information management, and implement a systematic approach for updating and analyzing the datasets.
+
+**Project Links**: [Code](/docs/Company Matching/uclaone.py)
+<br><br><br>
+
+## **STATS140XP Group Project**
+
+**Project Title**: An Analytical Study: Predictive Modeling for the Classification of Flagged Twitter Posts: Insights from Trump's Tweets Dataset (2009-2021)
+
+**Project Description**: In the evolving landscape of social media discourse, the intersection between political communication and platform moderation policies has increased in importance. Using a dataset consisting of web-scraped tweets from Donald Trump between 2009 and 2021, our study aims to predict through a sentiment analysis which tweets are more likely to be flagged by Twitter's moderation system. 
+
+**Project Links**: [Report](/docs/STATS140 Project/stats140_project_report.pdf), [Code](/docs/STATS140 Project/Stats140XP_project.ipynb), [Poster](/docs/STATS140 Project/stats140_project_poster.pdf)
+<br><br><br>
+
+
+
+## **STATS101C Group Project** 
+
+**Project Title**: IMBD Rating Sentiment Prediction Analysis
+
+**Project Description**: If you’re looking for public opinion before selecting a film to watch for movie night, you might want to take a look through IMDb. The website is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online. In fact, IMDb is the world’s most popular and authoritative source for movie, TV and celebrity content, at least according to. . . IMDb. For our project, we take a look at 50,000 movie reviews pulled from IMDb. The dataset contains one
+column for the reviews and another with the sentiment, either “positive” or “negative”. Our goal is to analyze the keywords in the reviews and use them to predict the sentiment of each review.
+
+**Project Link**: [Report](/docs/STATS 101C Project/101C_Final_Project.pdf), [Code](/docs/STATS 101C Project/code.R)
+<br><br><br>
+
+
+
+## **STATS 101A Final Project**  
+
+**Project Title**: Predictors for Baby Weight: A Statistical Analysis  
+
+**Project Description**: The research question of interest is to identify the best predictors for baby weight among the following factors: gestation period, parity, mother’s age, mother’s height, mother’s weight, and mother’s smoking status. The dataset, named "Pregnancy Data," was sourced from Kaggle and is based on a study that considered pregnancies between 1960 and 1967 among women in the Kaiser Foundation Health Plan in the San Francisco East Bay area, as stated by Debjeet Das. The paper will commence with a data description of individual variables and an exploration of the relationships between them. Subsequently, it will delve into the examination of several predictive models, justifying the selection of the "best" model. Finally, a concise summary and discussion of the limitations and potential improvements of the analysis will be presented.
+
+**Project Link**: [Report](/docs/STATS 101A Project/Baby Weight Predictor Analysis (STATS 101A).pdf)
+<br><br><br>

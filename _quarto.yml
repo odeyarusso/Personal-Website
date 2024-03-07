@@ -8,8 +8,8 @@ website:
         text: Home
       - href: work_experience.qmd
         text: Experience
-      - href: projects.qmd
-        text: Project
+      - href: project.qmd
+        text: Projects
 
   page-footer:
     right: "&copy; 2024, Odeya Russo"

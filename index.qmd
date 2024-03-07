@@ -8,7 +8,7 @@ about:
         url: https://www.linkedin.com/in/odeya-russo
       - icon: github
         text: Github
-        url: https://https://github.com/odeyarusso
+        url: https://github.com/odeyarusso
       - icon: inbox-fill
         text: Email
         url: "mailto:odeya.russo@gmail.com"
@@ -16,28 +16,29 @@ about:
 image: profile-pic.png
 ---
 
-<span style="font-size: xx-large;">**About Me**</span> <br>
-I am a senior undergraduate student at UCLA majoring in Statistics and Data Science. Currently employed as a junior data analyst for the UCLA Alumni Association, I bring a strong foundation in data analysis, with proficiency in R, Python, SQL, Tableau, and Excel. Throughout my academic journey, I have excelled in relevant coursework, including Data Analysis and Regression, Design and Analysis of Experiments, Statistical Models and Data Mining, Computational Statistics, Computation and Optimization for Statistics, Monte Carlo Methods, Statistical Consulting, and Geo-statistics, and have received recognition for my commitment to excellence (Dean's Honor List). Eager to leverage my skills, I am actively seeking entry-level data analyst positions where I can contribute my analytical abilities and continue to grow in the field.\
+### About Me
+<hr>
+I am a senior undergraduate student at UCLA majoring in Statistics and Data Science. Currently employed as a junior data analyst for the UCLA Alumni Association, I bring a strong foundation in data analysis, with proficiency in R, Python, SQL, Tableau, and Excel. Throughout my academic journey, I have excelled in relevant coursework, including Data Analysis and Regression, Design and Analysis of Experiments, Statistical Models and Data Mining, Computational Statistics, Computation and Optimization for Statistics, Monte Carlo Methods, Statistical Consulting, and Geo-statistics, and have received recognition for my commitment to excellence (Dean's Honor List). Eager to leverage my skills, I am actively seeking entry-level data analyst positions where I can contribute my analytical skills and continue to grow in the field.\
 Attached is my current [CV](/docs/CV/cv.pdf "CV")
+<br><br>
 
-<span style="font-size: xx-large;">**Education**</span> <br>
+### **Education**
+<hr>
 **University of California, Los Angeles**\
 - BS in Statistics and Data Science\
 - 09/2022 - 06/2024\
 - GPA: 3.97
+<br><br>
 
-**University of California, San Diego**\
-- BS in Applied Mathematics\
-- 09/2020 - 06/2022\
-- GPA: 3.98
-
-<span style="font-size: xx-large;">**Skills**</span> <br>
+### **Skills**
+<hr>
 - **Languages**: R, Python, SQL, MATLAB\
 - **Technologies**: Tableau, Microsoft Excel, Microsoft PowerPoint, LaTeX, Jira\
-- **Concepts**: Data Analytics, Statistics, Data Modeling, Data Visualization, Machine learning, Data Cleaning, Communication, Collaboration, Innovation, Database, Attention to Detail, Time Management, Problem-solving, Critical Thinking
+- **Concepts**: Data Analytics, Statistics, Data Modeling, Data Visualization, Machine learning, Data Cleaning, Communication, Databases, Collaboration, Innovation, Attention to Detail, Time Management, Problem-solving, Critical Thinking
+<br><br>
 
-
-<span style="font-size: xx-large;">**Hobbies**</span> <br>
+### **Hobbies**
+<hr>
 - Holistic Medicine\
 - Volleyball\
 - Pilates\
