@@ -8,7 +8,7 @@ website:
         text: Home
       - href: work_experience.qmd
         text: Experience
-      - href: project.qmd
+      - href: projects.qmd
         text: Projects
 
   page-footer:
